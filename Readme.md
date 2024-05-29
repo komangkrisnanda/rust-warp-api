@@ -23,7 +23,7 @@
 Clone the repository:
 
 ```sh
-git clone https://github.com/yourusername/rust-wrap-api.git
+git clone https://github.com/komangkrisnanda/rust-wrap-api.git
 cd rust-wrap-api
 ```
 
